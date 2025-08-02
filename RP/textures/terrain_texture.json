@@ -1,0 +1,293 @@
+{
+	"resource_pack_name": "Simply Built v1.0 Add-On",
+	"texture_name": "atlas.terrain",
+	"num_mip_levels": 2,
+	"padding": 8,
+	"texture_data": {
+		"large_planks_oak": {
+			"textures": "textures/blocks/wood/large_planks/large_planks_oak"
+		},
+		"large_planks_spruce": {
+			"textures": "textures/blocks/wood/large_planks/large_planks_spruce"
+		},
+		"large_planks_birch": {
+			"textures": "textures/blocks/wood/large_planks/large_planks_birch"
+		},
+		"large_planks_jungle": {
+			"textures": "textures/blocks/wood/large_planks/large_planks_jungle"
+		},
+		"large_planks_acacia": {
+			"textures": "textures/blocks/wood/large_planks/large_planks_acacia"
+		},
+		"large_planks_dark_oak": {
+			"textures": "textures/blocks/wood/large_planks/large_planks_dark_oak"
+		},
+		"large_planks_mangrove": {
+			"textures": "textures/blocks/wood/large_planks/large_planks_mangrove"
+		},
+		"large_planks_cherry": {
+			"textures": "textures/blocks/wood/large_planks/large_planks_cherry"
+		},
+		"large_planks_bamboo": {
+			"textures": "textures/blocks/wood/large_planks/large_planks_bamboo"
+		},
+		"large_planks_pale_oak": {
+			"textures": "textures/blocks/wood/large_planks/large_planks_pale_oak"
+		},
+		"large_planks_crimson": {
+			"textures": "textures/blocks/wood/large_planks/large_planks_crimson"
+		},
+		"large_planks_warped": {
+			"textures": "textures/blocks/wood/large_planks/large_planks_warped"
+		},
+		"large_clean_planks_oak": {
+			"textures": "textures/blocks/wood/large_planks/large_clean_planks_oak"
+		},
+		"large_clean_planks_spruce": {
+			"textures": "textures/blocks/wood/large_planks/large_clean_planks_spruce"
+		},
+		"large_clean_planks_birch": {
+			"textures": "textures/blocks/wood/large_planks/large_clean_planks_birch"
+		},
+		"large_clean_planks_jungle": {
+			"textures": "textures/blocks/wood/large_planks/large_clean_planks_jungle"
+		},
+		"large_clean_planks_acacia": {
+			"textures": "textures/blocks/wood/large_planks/large_clean_planks_acacia"
+		},
+		"large_clean_planks_dark_oak": {
+			"textures": "textures/blocks/wood/large_planks/large_clean_planks_dark_oak"
+		},
+		"large_clean_planks_mangrove": {
+			"textures": "textures/blocks/wood/large_planks/large_clean_planks_mangrove"
+		},
+		"large_clean_planks_cherry": {
+			"textures": "textures/blocks/wood/large_planks/large_clean_planks_cherry"
+		},
+		"large_clean_planks_bamboo": {
+			"textures": "textures/blocks/wood/large_planks/large_clean_planks_bamboo"
+		},
+		"large_clean_planks_pale_oak": {
+			"textures": "textures/blocks/wood/large_planks/large_clean_planks_pale_oak"
+		},
+		"large_clean_planks_crimson": {
+			"textures": "textures/blocks/wood/large_planks/large_clean_planks_crimson"
+		},
+		"large_clean_planks_warped": {
+			"textures": "textures/blocks/wood/large_planks/large_clean_planks_warped"
+		},
+		"vertical_large_clean_planks_oak": {
+			"textures": "textures/blocks/wood/large_planks/vertical_large_clean_planks_oak"
+		},
+		"vertical_large_clean_planks_spruce": {
+			"textures": "textures/blocks/wood/large_planks/vertical_large_clean_planks_spruce"
+		},
+		"vertical_large_clean_planks_birch": {
+			"textures": "textures/blocks/wood/large_planks/vertical_large_clean_planks_birch"
+		},
+		"vertical_large_clean_planks_jungle": {
+			"textures": "textures/blocks/wood/large_planks/vertical_large_clean_planks_jungle"
+		},
+		"vertical_large_clean_planks_acacia": {
+			"textures": "textures/blocks/wood/large_planks/vertical_large_clean_planks_acacia"
+		},
+		"vertical_large_clean_planks_dark_oak": {
+			"textures": "textures/blocks/wood/large_planks/vertical_large_clean_planks_dark_oak"
+		},
+		"vertical_large_clean_planks_mangrove": {
+			"textures": "textures/blocks/wood/large_planks/vertical_large_clean_planks_mangrove"
+		},
+		"vertical_large_clean_planks_cherry": {
+			"textures": "textures/blocks/wood/large_planks/vertical_large_clean_planks_cherry"
+		},
+		"vertical_large_clean_planks_bamboo": {
+			"textures": "textures/blocks/wood/large_planks/vertical_large_clean_planks_bamboo"
+		},
+		"vertical_large_clean_planks_pale_oak": {
+			"textures": "textures/blocks/wood/large_planks/vertical_large_clean_planks_pale_oak"
+		},
+		"vertical_large_clean_planks_crimson": {
+			"textures": "textures/blocks/wood/large_planks/vertical_large_clean_planks_crimson"
+		},
+		"vertical_large_clean_planks_warped": {
+			"textures": "textures/blocks/wood/large_planks/vertical_large_clean_planks_warped"
+		},
+		"shingles_oak": {
+			"textures": "textures/blocks/wood/shingles/shingles_oak"
+		},
+		"shingles_spruce": {
+			"textures": "textures/blocks/wood/shingles/shingles_spruce"
+		},
+		"shingles_birch": {
+			"textures": "textures/blocks/wood/shingles/shingles_birch"
+		},
+		"shingles_jungle": {
+			"textures": "textures/blocks/wood/shingles/shingles_jungle"
+		},
+		"shingles_acacia": {
+			"textures": "textures/blocks/wood/shingles/shingles_acacia"
+		},
+		"shingles_dark_oak": {
+			"textures": "textures/blocks/wood/shingles/shingles_dark_oak"
+		},
+		"shingles_mangrove": {
+			"textures": "textures/blocks/wood/shingles/shingles_mangrove"
+		},
+		"shingles_cherry": {
+			"textures": "textures/blocks/wood/shingles/shingles_cherry"
+		},
+		"shingles_bamboo": {
+			"textures": "textures/blocks/wood/shingles/shingles_bamboo"
+		},
+		"shingles_pale_oak": {
+			"textures": "textures/blocks/wood/shingles/shingles_pale_oak"
+		},
+		"shingles_crimson": {
+			"textures": "textures/blocks/wood/shingles/shingles_crimson"
+		},
+		"shingles_warped": {
+			"textures": "textures/blocks/wood/shingles/shingles_warped"
+		},
+		"terracotta_bricks": {
+			"textures": "textures/blocks/terracotta/terracotta_bricks"
+		},
+		"terracotta_bricks_white": {
+			"textures": "textures/blocks/terracotta/terracotta_bricks_white"
+		},
+		"terracotta_bricks_light_gray": {
+			"textures": "textures/blocks/terracotta/terracotta_bricks_light_gray"
+		},
+		"terracotta_bricks_gray": {
+			"textures": "textures/blocks/terracotta/terracotta_bricks_gray"
+		},
+		"terracotta_bricks_black": {
+			"textures": "textures/blocks/terracotta/terracotta_bricks_black"
+		},
+		"terracotta_bricks_brown": {
+			"textures": "textures/blocks/terracotta/terracotta_bricks_brown"
+		},
+		"terracotta_bricks_red": {
+			"textures": "textures/blocks/terracotta/terracotta_bricks_red"
+		},
+		"terracotta_bricks_orange": {
+			"textures": "textures/blocks/terracotta/terracotta_bricks_orange"
+		},
+		"terracotta_bricks_yellow": {
+			"textures": "textures/blocks/terracotta/terracotta_bricks_yellow"
+		},
+		"terracotta_bricks_light_green": {
+			"textures": "textures/blocks/terracotta/terracotta_bricks_light_green"
+		},
+		"terracotta_bricks_green": {
+			"textures": "textures/blocks/terracotta/terracotta_bricks_green"
+		},
+		"terracotta_bricks_cyan": {
+			"textures": "textures/blocks/terracotta/terracotta_bricks_cyan"
+		},
+		"terracotta_bricks_light_blue": {
+			"textures": "textures/blocks/terracotta/terracotta_bricks_light_blue"
+		},
+		"terracotta_bricks_blue": {
+			"textures": "textures/blocks/terracotta/terracotta_bricks_blue"
+		},
+		"terracotta_bricks_purple": {
+			"textures": "textures/blocks/terracotta/terracotta_bricks_purple"
+		},
+		"terracotta_bricks_magenta": {
+			"textures": "textures/blocks/terracotta/terracotta_bricks_magenta"
+		},
+		"terracotta_bricks_pink": {
+			"textures": "textures/blocks/terracotta/terracotta_bricks_pink"
+		},
+		"diorite_pillar_side": {
+			"textures": "textures/blocks/stone/diorite_pillar_side"
+		},
+		"diorite_pillar_top": {
+			"textures": "textures/blocks/stone/diorite_pillar_top"
+		},
+		"diorite_bricks": {
+			"textures": "textures/blocks/stone/diorite_bricks"
+		},
+		"diorite_small_bricks": {
+			"textures": "textures/blocks/stone/diorite_small_bricks"
+		},
+		"diorite_tiles": {
+			"textures": "textures/blocks/stone/diorite_tiles"
+		},
+		"diorite_herringbone_bricks": {
+			"textures": "textures/blocks/stone/diorite_herringbone_bricks"
+		},
+		"andesite_pillar_side": {
+			"textures": "textures/blocks/stone/andesite_pillar_side"
+		},
+		"andesite_pillar_top": {
+			"textures": "textures/blocks/stone/andesite_pillar_top"
+		},
+		"andesite_bricks": {
+			"textures": "textures/blocks/stone/andesite_bricks"
+		},
+		"andesite_small_bricks": {
+			"textures": "textures/blocks/stone/andesite_small_bricks"
+		},
+		"andesite_tiles": {
+			"textures": "textures/blocks/stone/andesite_tiles"
+		},
+		"andesite_herringbone_bricks": {
+			"textures": "textures/blocks/stone/andesite_herringbone_bricks"
+		},
+		"granite_pillar_side": {
+			"textures": "textures/blocks/stone/granite_pillar_side"
+		},
+		"granite_pillar_top": {
+			"textures": "textures/blocks/stone/granite_pillar_top"
+		},
+		"granite_bricks": {
+			"textures": "textures/blocks/stone/granite_bricks"
+		},
+		"granite_small_bricks": {
+			"textures": "textures/blocks/stone/granite_small_bricks"
+		},
+		"granite_tiles": {
+			"textures": "textures/blocks/stone/granite_tiles"
+		},
+		"granite_herringbone_bricks": {
+			"textures": "textures/blocks/stone/granite_herringbone_bricks"
+		},
+		"sandstone_pillar_side": {
+			"textures": "textures/blocks/stone/sandstone_pillar_side"
+		},
+		"sandstone_pillar_top": {
+			"textures": "textures/blocks/stone/sandstone_pillar_top"
+		},
+		"sandstone_bricks": {
+			"textures": "textures/blocks/stone/sandstone_bricks"
+		},
+		"sandstone_small_bricks": {
+			"textures": "textures/blocks/stone/sandstone_small_bricks"
+		},
+		"sandstone_tiles": {
+			"textures": "textures/blocks/stone/sandstone_tiles"
+		},
+		"sandstone_herringbone_bricks": {
+			"textures": "textures/blocks/stone/sandstone_herringbone_bricks"
+		},
+		"red_sandstone_pillar_side": {
+			"textures": "textures/blocks/stone/red_sandstone_pillar_side"
+		},
+		"red_sandstone_pillar_top": {
+			"textures": "textures/blocks/stone/red_sandstone_pillar_top"
+		},
+		"red_sandstone_bricks": {
+			"textures": "textures/blocks/stone/red_sandstone_bricks"
+		},
+		"red_sandstone_small_bricks": {
+			"textures": "textures/blocks/stone/red_sandstone_small_bricks"
+		},
+		"red_sandstone_tiles": {
+			"textures": "textures/blocks/stone/red_sandstone_tiles"
+		},
+		"red_sandstone_herringbone_bricks": {
+			"textures": "textures/blocks/stone/red_sandstone_herringbone_bricks"
+		}
+	}
+}

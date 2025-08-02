@@ -1,0 +1,44 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Floralane"
+		]
+	},
+	"header": {
+		"name": "Simply Built v0.2 Add-On",
+		"description": "Brings a wider range of building blocks and furniture to Minecraft! Created by Floralane",
+		"min_engine_version": [
+			1,
+			21,
+			80
+		],
+		"uuid": "a79c1cf6-d621-4799-a1e9-e078400d44f2",
+		"version": [
+			0,
+			2,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "02c94815-be43-4be0-b6d3-fd669b2af0b7",
+			"version": [
+				0,
+				2,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "2c618f90-5b48-4b18-8d6b-1a35388db693",
+			"version": [
+				0,
+				2,
+				0
+			]
+		}
+	]
+}

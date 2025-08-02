@@ -1,0 +1,174 @@
+{
+    "format_version": "1.21.90",
+    "minecraft:crafting_items_catalog": {
+        "categories": [
+            {
+                "category_name": "construction",
+                "groups": [
+                    {
+                        "group_identifier": {
+                            "icon": "sb:large_oak_planks",
+                            "name": "sb: Large Planks"
+                        },
+                        "items": [
+                            "sb:large_oak_planks",
+                            "sb:large_spruce_planks",
+                            "sb:large_birch_planks",
+                            "sb:large_jungle_planks",
+                            "sb:large_acacia_planks",
+                            "sb:large_dark_oak_planks",
+                            "sb:large_mangrove_planks",
+                            "sb:large_cherry_planks",
+                            "sb:large_bamboo_planks",
+                            "sb:large_pale_oak_planks",
+                            "sb:large_crimson_planks",
+                            "sb:large_warped_planks"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "sb:large_clean_oak_planks",
+                            "name": "sb: Large Clean Planks"
+                        },
+                        "items": [
+                            "sb:large_clean_oak_planks",
+                            "sb:large_clean_spruce_planks",
+                            "sb:large_clean_birch_planks",
+                            "sb:large_clean_jungle_planks",
+                            "sb:large_clean_acacia_planks",
+                            "sb:large_clean_dark_oak_planks",
+                            "sb:large_clean_mangrove_planks",
+                            "sb:large_clean_cherry_planks",
+                            "sb:large_clean_bamboo_planks",
+                            "sb:large_clean_pale_oak_planks",
+                            "sb:large_clean_crimson_planks",
+                            "sb:large_clean_warped_planks",
+                            "sb:vertical_large_clean_oak_planks",
+                            "sb:vertical_large_clean_spruce_planks",
+                            "sb:vertical_large_clean_birch_planks",
+                            "sb:vertical_large_clean_jungle_planks",
+                            "sb:vertical_large_clean_acacia_planks",
+                            "sb:vertical_large_clean_dark_oak_planks",
+                            "sb:vertical_large_clean_mangrove_planks",
+                            "sb:vertical_large_clean_cherry_planks",
+                            "sb:vertical_large_clean_bamboo_planks",
+                            "sb:vertical_large_clean_pale_oak_planks",
+                            "sb:vertical_large_clean_crimson_planks",
+                            "sb:vertical_large_clean_warped_planks"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "sb:oak_shingles",
+                            "name": "sb: Wooden Shingles"
+                        },
+                        "items": [
+                            "sb:oak_shingles",
+                            "sb:spruce_shingles",
+                            "sb:birch_shingles",
+                            "sb:jungle_shingles",
+                            "sb:acacia_shingles",
+                            "sb:dark_oak_shingles",
+                            "sb:mangrove_shingles",
+                            "sb:cherry_shingles",
+                            "sb:bamboo_shingles",
+                            "sb:pale_oak_shingles",
+                            "sb:crimson_shingles",
+                            "sb:warped_shingles"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "sb:terracotta_bricks",
+                            "name": "sb: Terracotta Bricks"
+                        },
+                        "items": [
+                            "sb:terracotta_bricks",
+                            "sb:white_terracotta_bricks",
+                            "sb:light_gray_terracotta_bricks",
+                            "sb:gray_terracotta_bricks",
+                            "sb:black_terracotta_bricks",
+                            "sb:brown_terracotta_bricks",
+                            "sb:red_terracotta_bricks",
+                            "sb:orange_terracotta_bricks",
+                            "sb:yellow_terracotta_bricks",
+                            "sb:light_green_terracotta_bricks",
+                            "sb:green_terracotta_bricks",
+                            "sb:cyan_terracotta_bricks",
+                            "sb:light_blue_terracotta_bricks",
+                            "sb:blue_terracotta_bricks",
+                            "sb:purple_terracotta_bricks",
+                            "sb:magenta_terracotta_bricks",
+                            "sb:pink_terracotta_bricks"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "sb:diorite_bricks",
+                            "name": "sb: Diorite Blocks"
+                        },
+                        "items": [
+                            "sb:diorite_pillar",
+                            "sb:diorite_bricks",
+                            "sb:diorite_small_bricks",
+                            "sb:diorite_tiles",
+                            "sb:diorite_herringbone_bricks"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "sb:andesite_bricks",
+                            "name": "sb: Andesite Blocks"
+                        },
+                        "items": [
+                            "sb:andesite_pillar",
+                            "sb:andesite_bricks",
+                            "sb:andesite_small_bricks",
+                            "sb:andesite_tiles",
+                            "sb:andesite_herringbone_bricks"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "sb:granite_bricks",
+                            "name": "sb: Granite Blocks"
+                        },
+                        "items": [
+                            "sb:granite_pillar",
+                            "sb:granite_bricks",
+                            "sb:granite_small_bricks",
+                            "sb:granite_tiles",
+                            "sb:granite_herringbone_bricks"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "sb:sandstone_bricks",
+                            "name": "sb: Sandstone Blocks"
+                        },
+                        "items": [
+                            "sb:sandstone_pillar",
+                            "sb:sandstone_bricks",
+                            "sb:sandstone_small_bricks",
+                            "sb:sandstone_tiles",
+                            "sb:sandstone_herringbone_bricks"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "sb:red_sandstone_bricks",
+                            "name": "sb: Sandstone Blocks"
+                        },
+                        "items": [
+                            "sb:red_sandstone_pillar",
+                            "sb:red_sandstone_bricks",
+                            "sb:red_sandstone_small_bricks",
+                            "sb:red_sandstone_tiles",
+                            "sb:red_sandstone_herringbone_bricks"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

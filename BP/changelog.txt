@@ -1,0 +1,37 @@
+v0.2.1 Changelog
+
+New Features:
+❖ 
+
+Fixes:
+❖ 
+
+---
+
+v0.2.0 Changelog
+
+New Features:
+❖ Added Large Clean Planks as a new block type
+❖ Custom blocks are now organized into groups in the creative inventory (via "+" buttons)
+❖ Pillar blocks now support rotation, just like vanilla wood logs
+❖ All pillars now have separate top textures for more detail
+
+Fixes:
+❖ Wood blocks now break faster with axes and slower without tools
+❖ Stone blocks now break faster with pickaxes and slower without tools
+❖ Removed unused loot table files
+❖ Renamed texture files for better organization and consistency
+
+---
+
+v0.1.0 Changelog
+
+New Features:
+❖ Added Large Planks as a new block type
+❖ Added Terracotta Bricks in all colors
+❖ Added Diorite block variants
+❖ Added Andesite block variants
+❖ Added Granite block variants
+❖ Added Sandstone block variants
+
+---
