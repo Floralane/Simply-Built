@@ -59,6 +59,26 @@
                     },
                     {
                         "group_identifier": {
+                            "icon": "sb:oak_trim",
+                            "name": "sb: Wooden Trim"
+                        },
+                        "items": [
+                            "sb:oak_trim",
+                            "sb:spruce_trim",
+                            "sb:birch_trim",
+                            "sb:jungle_trim",
+                            "sb:acacia_trim",
+                            "sb:dark_oak_trim",
+                            "sb:mangrove_trim",
+                            "sb:cherry_trim",
+                            "sb:bamboo_trim",
+                            "sb:pale_oak_trim",
+                            "sb:crimson_trim",
+                            "sb:warped_trim"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
                             "icon": "sb:oak_shingles",
                             "name": "sb: Wooden Shingles"
                         },

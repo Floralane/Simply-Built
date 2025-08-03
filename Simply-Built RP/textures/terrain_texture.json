@@ -112,6 +112,42 @@
 		"vertical_large_clean_planks_warped": {
 			"textures": "textures/blocks/wood/large_planks/vertical_large_clean_planks_warped"
 		},
+		"oak_trim": {
+			"textures": "textures/blocks/wood/trim/oak_trim"
+		},
+		"spruce_trim": {
+			"textures": "textures/blocks/wood/trim/spruce_trim"
+		},
+		"birch_trim": {
+			"textures": "textures/blocks/wood/trim/birch_trim"
+		},
+		"jungle_trim": {
+			"textures": "textures/blocks/wood/trim/jungle_trim"
+		},
+		"acacia_trim": {
+			"textures": "textures/blocks/wood/trim/acacia_trim"
+		},
+		"dark_oak_trim": {
+			"textures": "textures/blocks/wood/trim/dark_oak_trim"
+		},
+		"mangrove_trim": {
+			"textures": "textures/blocks/wood/trim/mangrove_trim"
+		},
+		"cherry_trim": {
+			"textures": "textures/blocks/wood/trim/cherry_trim"
+		},
+		"bamboo_trim": {
+			"textures": "textures/blocks/wood/trim/bamboo_trim"
+		},
+		"pale_oak_trim": {
+			"textures": "textures/blocks/wood/trim/pale_oak_trim"
+		},
+		"crimson_trim": {
+			"textures": "textures/blocks/wood/trim/crimson_trim"
+		},
+		"warped_trim": {
+			"textures": "textures/blocks/wood/trim/warped_trim"
+		},
 		"shingles_oak": {
 			"textures": "textures/blocks/wood/shingles/shingles_oak"
 		},

@@ -148,6 +148,54 @@
 		"sound": "wood",
 		"textures": "vertical_large_clean_planks_warped"
 	},
+	"sb:oak_trim": {
+		"sound": "wood",
+		"textures": "oak_trim"
+	},
+	"sb:spruce_trim": {
+		"sound": "wood",
+		"textures": "spruce_trim"
+	},
+	"sb:birch_trim": {
+		"sound": "wood",
+		"textures": "birch_trim"
+	},
+	"sb:jungle_trim": {
+		"sound": "wood",
+		"textures": "jungle_trim"
+	},
+	"sb:acacia_trim": {
+		"sound": "wood",
+		"textures": "acacia_trim"
+	},
+	"sb:dark_oak_trim": {
+		"sound": "wood",
+		"textures": "dark_oak_trim"
+	},
+	"sb:mangrove_trim": {
+		"sound": "wood",
+		"textures": "mangrove_trim"
+	},
+	"sb:cherry_trim": {
+		"sound": "wood",
+		"textures": "cherry_trim"
+	},
+	"sb:bamboo_trim": {
+		"sound": "wood",
+		"textures": "bamboo_trim"
+	},
+	"sb:pale_oak_trim": {
+		"sound": "wood",
+		"textures": "pale_oak_trim"
+	},
+	"sb:crimson_trim": {
+		"sound": "wood",
+		"textures": "crimson_trim"
+	},
+	"sb:warped_trim": {
+		"sound": "wood",
+		"textures": "warped_trim"
+	},
 	"sb:oak_shingles": {
 		"sound": "wood",
 		"textures": "shingles_oak"
