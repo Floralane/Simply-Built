@@ -15,18 +15,19 @@
 		],
 		"uuid": "2c618f90-5b48-4b18-8d6b-1a35388db693",
 		"version": [
+			1,
 			0,
-			2,
 			0
 		]
 	},
 	"modules": [
 		{
+			"description": "resource",
 			"type": "resources",
 			"uuid": "49c9b875-4dc0-45a8-8a19-15d99aa7413f",
 			"version": [
+				1,
 				0,
-				2,
 				0
 			]
 		}
@@ -35,8 +36,8 @@
 		{
 			"uuid": "a79c1cf6-d621-4799-a1e9-e078400d44f2",
 			"version": [
+				1,
 				0,
-				2,
 				0
 			]
 		}

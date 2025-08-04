@@ -1,0 +1,28 @@
+{
+  "format_version": "1.21.90",
+  "minecraft:block": {
+    "description": {
+      "identifier": "sb:large_table_se"
+    },
+    "components": {
+      "minecraft:geometry": "geometry.large_table_se",
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "large_oak_table",
+          "render_method": "alpha_test"
+        }
+      },
+      "minecraft:selection_box": {
+        "origin": [-8, 0, -8],
+        "size": [16, 10, 16]
+      },
+      "minecraft:collision_box": {
+        "origin": [-8, 0, -8],
+        "size": [16, 10, 16]
+      },
+      "minecraft:custom_components": [
+        "sb:large_table_handler"
+      ]
+    }
+  }
+}

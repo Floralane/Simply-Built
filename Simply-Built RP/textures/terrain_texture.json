@@ -324,6 +324,9 @@
 		},
 		"red_sandstone_herringbone_bricks": {
 			"textures": "textures/blocks/stone/red_sandstone_herringbone_bricks"
+		},
+		"large_oak_table": {
+			"textures": "textures/blocks/decorative/tables/large_oak_table"
 		}
 	}
 }
