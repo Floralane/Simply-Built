@@ -4,6 +4,54 @@
 		1,
 		0
 	],
+	"sb:vertical_oak_planks": {
+		"sound": "wood",
+		"textures": "vertical_planks_oak"
+	},
+	"sb:vertical_spruce_planks": {
+		"sound": "wood",
+		"textures": "vertical_planks_spruce"
+	},
+	"sb:vertical_birch_planks": {
+		"sound": "wood",
+		"textures": "vertical_planks_birch"
+	},
+	"sb:vertical_jungle_planks": {
+		"sound": "wood",
+		"textures": "vertical_planks_jungle"
+	},
+	"sb:vertical_acacia_planks": {
+		"sound": "wood",
+		"textures": "vertical_planks_acacia"
+	},
+	"sb:vertical_dark_oak_planks": {
+		"sound": "wood",
+		"textures": "vertical_planks_dark_oak"
+	},
+	"sb:vertical_mangrove_planks": {
+		"sound": "wood",
+		"textures": "vertical_planks_mangrove"
+	},
+	"sb:vertical_cherry_planks": {
+		"sound": "wood",
+		"textures": "vertical_planks_cherry"
+	},
+	"sb:vertical_bamboo_planks": {
+		"sound": "wood",
+		"textures": "vertical_planks_bamboo"
+	},
+	"sb:vertical_pale_oak_planks": {
+		"sound": "wood",
+		"textures": "vertical_planks_pale_oak"
+	},
+	"sb:vertical_crimson_planks": {
+		"sound": "wood",
+		"textures": "vertical_planks_crimson"
+	},
+	"sb:vertical_warped_planks": {
+		"sound": "wood",
+		"textures": "vertical_planks_warped"
+	},
 	"sb:large_oak_planks": {
 		"sound": "wood",
 		"textures": "large_planks_oak"

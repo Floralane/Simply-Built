@@ -4,6 +4,42 @@
 	"num_mip_levels": 2,
 	"padding": 8,
 	"texture_data": {
+		"vertical_planks_oak": {
+			"textures": "textures/blocks/wood/vertical_planks/vertical_planks_oak"
+		},
+		"vertical_planks_spruce": {
+			"textures": "textures/blocks/wood/vertical_planks/vertical_planks_spruce"
+		},
+		"vertical_planks_birch": {
+			"textures": "textures/blocks/wood/vertical_planks/vertical_planks_birch"
+		},
+		"vertical_planks_jungle": {
+			"textures": "textures/blocks/wood/vertical_planks/vertical_planks_jungle"
+		},
+		"vertical_planks_acacia": {
+			"textures": "textures/blocks/wood/vertical_planks/vertical_planks_acacia"
+		},
+		"vertical_planks_dark_oak": {
+			"textures": "textures/blocks/wood/vertical_planks/vertical_planks_dark_oak"
+		},
+		"vertical_planks_mangrove": {
+			"textures": "textures/blocks/wood/vertical_planks/vertical_planks_mangrove"
+		},
+		"vertical_planks_cherry": {
+			"textures": "textures/blocks/wood/vertical_planks/vertical_planks_cherry"
+		},
+		"vertical_planks_bamboo": {
+			"textures": "textures/blocks/wood/vertical_planks/vertical_planks_bamboo"
+		},
+		"vertical_planks_pale_oak": {
+			"textures": "textures/blocks/wood/vertical_planks/vertical_planks_pale_oak"
+		},
+		"vertical_planks_crimson": {
+			"textures": "textures/blocks/wood/vertical_planks/vertical_planks_crimson"
+		},
+		"vertical_planks_warped": {
+			"textures": "textures/blocks/wood/vertical_planks/vertical_planks_warped"
+		},
 		"large_planks_oak": {
 			"textures": "textures/blocks/wood/large_planks/large_planks_oak"
 		},
@@ -324,6 +360,78 @@
 		},
 		"red_sandstone_herringbone_bricks": {
 			"textures": "textures/blocks/stone/red_sandstone_herringbone_bricks"
+		},
+		"oak_baluster": {
+			"textures": "textures/blocks/decorative/balusters/oak_baluster"
+		},
+		"spruce_baluster": {
+			"textures": "textures/blocks/decorative/balusters/spruce_baluster"
+		},
+		"birch_baluster": {
+			"textures": "textures/blocks/decorative/balusters/birch_baluster"
+		},
+		"jungle_baluster": {
+			"textures": "textures/blocks/decorative/balusters/jungle_baluster"
+		},
+		"acacia_baluster": {
+			"textures": "textures/blocks/decorative/balusters/acacia_baluster"
+		},
+		"dark_oak_baluster": {
+			"textures": "textures/blocks/decorative/balusters/dark_oak_baluster"
+		},
+		"mangrove_baluster": {
+			"textures": "textures/blocks/decorative/balusters/mangrove_baluster"
+		},
+		"cherry_baluster": {
+			"textures": "textures/blocks/decorative/balusters/cherry_baluster"
+		},
+		"bamboo_baluster": {
+			"textures": "textures/blocks/decorative/balusters/bamboo_baluster"
+		},
+		"pale_oak_baluster": {
+			"textures": "textures/blocks/decorative/balusters/pale_oak_baluster"
+		},
+		"crimson_baluster": {
+			"textures": "textures/blocks/decorative/balusters/crimson_baluster"
+		},
+		"warped_baluster": {
+			"textures": "textures/blocks/decorative/balusters/warped_baluster"
+		},
+		"oak_frame": {
+			"textures": "textures/blocks/decorative/frames/oak_frame"
+		},
+		"spruce_frame": {
+			"textures": "textures/blocks/decorative/frames/spruce_frame"
+		},
+		"birch_frame": {
+			"textures": "textures/blocks/decorative/frames/birch_frame"
+		},
+		"jungle_frame": {
+			"textures": "textures/blocks/decorative/frames/jungle_frame"
+		},
+		"acacia_frame": {
+			"textures": "textures/blocks/decorative/frames/acacia_frame"
+		},
+		"dark_oak_frame": {
+			"textures": "textures/blocks/decorative/frames/dark_oak_frame"
+		},
+		"mangrove_frame": {
+			"textures": "textures/blocks/decorative/frames/mangrove_frame"
+		},
+		"cherry_frame": {
+			"textures": "textures/blocks/decorative/frames/cherry_frame"
+		},
+		"bamboo_frame": {
+			"textures": "textures/blocks/decorative/frames/bamboo_frame"
+		},
+		"pale_oak_frame": {
+			"textures": "textures/blocks/decorative/frames/pale_oak_frame"
+		},
+		"crimson_frame": {
+			"textures": "textures/blocks/decorative/frames/crimson_frame"
+		},
+		"warped_frame": {
+			"textures": "textures/blocks/decorative/frames/warped_frame"
 		}
 	}
 }
