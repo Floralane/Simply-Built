@@ -4,6 +4,42 @@
 	"num_mip_levels": 2,
 	"padding": 8,
 	"texture_data": {
+		"vertical_planks_oak": {
+			"textures": "textures/blocks/wood/vertical_planks/vertical_planks_oak"
+		},
+		"vertical_planks_spruce": {
+			"textures": "textures/blocks/wood/vertical_planks/vertical_planks_spruce"
+		},
+		"vertical_planks_birch": {
+			"textures": "textures/blocks/wood/vertical_planks/vertical_planks_birch"
+		},
+		"vertical_planks_jungle": {
+			"textures": "textures/blocks/wood/vertical_planks/vertical_planks_jungle"
+		},
+		"vertical_planks_acacia": {
+			"textures": "textures/blocks/wood/vertical_planks/vertical_planks_acacia"
+		},
+		"vertical_planks_dark_oak": {
+			"textures": "textures/blocks/wood/vertical_planks/vertical_planks_dark_oak"
+		},
+		"vertical_planks_mangrove": {
+			"textures": "textures/blocks/wood/vertical_planks/vertical_planks_mangrove"
+		},
+		"vertical_planks_cherry": {
+			"textures": "textures/blocks/wood/vertical_planks/vertical_planks_cherry"
+		},
+		"vertical_planks_bamboo": {
+			"textures": "textures/blocks/wood/vertical_planks/vertical_planks_bamboo"
+		},
+		"vertical_planks_pale_oak": {
+			"textures": "textures/blocks/wood/vertical_planks/vertical_planks_pale_oak"
+		},
+		"vertical_planks_crimson": {
+			"textures": "textures/blocks/wood/vertical_planks/vertical_planks_crimson"
+		},
+		"vertical_planks_warped": {
+			"textures": "textures/blocks/wood/vertical_planks/vertical_planks_warped"
+		},
 		"large_planks_oak": {
 			"textures": "textures/blocks/wood/large_planks/large_planks_oak"
 		},
@@ -324,6 +360,9 @@
 		},
 		"red_sandstone_herringbone_bricks": {
 			"textures": "textures/blocks/stone/red_sandstone_herringbone_bricks"
+		},
+		"oak_baluster": {
+			"textures": "textures/blocks/decorative/balusters/oak_baluster"
 		}
 	}
 }

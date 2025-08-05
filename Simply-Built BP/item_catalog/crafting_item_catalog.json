@@ -7,6 +7,26 @@
                 "groups": [
                     {
                         "group_identifier": {
+                            "icon": "sb:vertical_oak_planks",
+                            "name": "sb: Large Planks"
+                        },
+                        "items": [
+                            "sb:vertical_oak_planks",
+                            "sb:vertical_spruce_planks",
+                            "sb:vertical_birch_planks",
+                            "sb:vertical_jungle_planks",
+                            "sb:vertical_acacia_planks",
+                            "sb:vertical_dark_oak_planks",
+                            "sb:vertical_mangrove_planks",
+                            "sb:vertical_cherry_planks",
+                            "sb:vertical_bamboo_planks",
+                            "sb:vertical_pale_oak_planks",
+                            "sb:vertical_crimson_planks",
+                            "sb:vertical_warped_planks"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
                             "icon": "sb:large_oak_planks",
                             "name": "sb: Large Planks"
                         },
@@ -185,6 +205,20 @@
                             "sb:red_sandstone_small_bricks",
                             "sb:red_sandstone_tiles",
                             "sb:red_sandstone_herringbone_bricks"
+                        ]
+                    }
+                ]
+            },
+            {
+                "category_name": "items",
+                "groups": [
+                    {
+                        "group_identifier": {
+                            "icon": "sb:oak_baluster",
+                            "name": "sb: Wooden Balusters"
+                        },
+                        "items": [
+                            "sb:oak_baluster"
                         ]
                     }
                 ]
