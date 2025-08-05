@@ -188,6 +188,20 @@
                         ]
                     }
                 ]
+            },
+            {
+                "category_name": "items",
+                "groups": [
+                    {
+                        "group_identifier": {
+                            "icon": "sb:oak_baluster",
+                            "name": "sb: Wooden Balusters"
+                        },
+                        "items": [
+                            "sb:oak_baluster"
+                        ]
+                    }
+                ]
             }
         ]
     }

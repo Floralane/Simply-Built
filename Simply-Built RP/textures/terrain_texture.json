@@ -324,6 +324,9 @@
 		},
 		"red_sandstone_herringbone_bricks": {
 			"textures": "textures/blocks/stone/red_sandstone_herringbone_bricks"
+		},
+		"oak_baluster": {
+			"textures": "textures/blocks/decorative/balusters/oak_baluster"
 		}
 	}
 }
