@@ -258,3 +258,5 @@ tile.sb:corner_frame_lower_left_warped.name=Warped Corner Frame Lower Left
 tile.sb:corner_frame_lower_right_warped.name=Warped Corner Frame Lower Right
 tile.sb:corner_frame_upper_left_warped.name=Warped Corner Frame Upper Left
 tile.sb:corner_frame_upper_right_warped.name=Warped Corner Frame Upper Right
+tile.sb:large_table_oak.name=Large Oak Table
+tile.sb:large_table_spruce.name=Large Spruce Table

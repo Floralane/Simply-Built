@@ -432,6 +432,12 @@
 		},
 		"warped_frame": {
 			"textures": "textures/blocks/decorative/frames/warped_frame"
+		},
+		"large_table_oak": {
+			"textures": "textures/blocks/decorative/tables/large_table_oak"
+		},
+		"large_table_spruce": {
+			"textures": "textures/blocks/decorative/tables/large_table_spruce"
 		}
 	}
 }

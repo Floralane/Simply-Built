@@ -459,6 +459,16 @@
                             "sb:crimson_baluster",
                             "sb:warped_baluster"
                         ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "sb:large_table_oak",
+                            "name": "sb: Large Tables"
+                        },
+                        "items": [
+                            "sb:large_table_oak",
+                            "sb:large_table_spruce"
+                        ]
                     }
                 ]
             }
