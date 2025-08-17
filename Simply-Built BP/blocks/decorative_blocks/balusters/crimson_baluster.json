@@ -4,7 +4,7 @@
     "description": {
       "identifier": "sb:crimson_baluster",
       "menu_category": {
-        "category": "items"
+        "category": "construction"
       },
       "traits": {
         "minecraft:placement_direction": {
@@ -44,7 +44,7 @@
       "minecraft:geometry": "geometry.baluster",
       "minecraft:material_instances": {
         "*": {
-          "texture": "crimson_baluster",
+          "texture": "baluster_crimson",
           "render_method": "alpha_test"
         }
       },

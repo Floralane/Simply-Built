@@ -44,7 +44,7 @@
       "minecraft:geometry": "geometry.tpost_frame_lower",
       "minecraft:material_instances": {
         "*": {
-          "texture": "dark_oak_frame",
+          "texture": "frame_dark_oak",
           "render_method": "alpha_test"
         }
       },

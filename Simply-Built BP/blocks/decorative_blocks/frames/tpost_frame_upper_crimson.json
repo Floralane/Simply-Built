@@ -44,7 +44,7 @@
       "minecraft:geometry": "geometry.tpost_frame_upper",
       "minecraft:material_instances": {
         "*": {
-          "texture": "crimson_frame",
+          "texture": "frame_crimson",
           "render_method": "alpha_test"
         }
       },

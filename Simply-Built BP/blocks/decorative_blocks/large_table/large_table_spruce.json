@@ -1,0 +1,137 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:block": {
+    "description": {
+      "identifier": "sb:large_table_spruce",
+      "menu_category": {
+        "category": "items"
+      },
+      "states": {
+        "sb:table_part": [
+          "center",
+          "north",
+          "south",
+          "east",
+          "west",
+          "nw",
+          "ne",
+          "sw",
+          "se"
+        ]
+      },
+      "traits": {
+        "minecraft:placement_direction": {
+          "enabled_states": [
+            "minecraft:cardinal_direction"
+          ]
+        }
+      }
+    },
+    "components": {
+      "minecraft:custom_components": [
+        "sb:table_function"
+      ],
+      "minecraft:collision_box": {
+        "origin": [-8, 0, -8],
+        "size": [16, 16, 16]
+      },
+      "minecraft:selection_box": {
+        "origin": [-8, 0, -8],
+        "size": [16, 16, 16]
+      },
+      "minecraft:flammable": {
+        "catch_chance_modifier": 5,
+        "destroy_chance_modifier": 5
+      },
+      "tag:minecraft:is_axe_item_destructible": {},
+      "minecraft:destructible_by_explosion": {
+        "explosion_resistance": 2
+      },
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 2
+      },
+      "minecraft:light_dampening": 0,
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "large_table_spruce",
+          "render_method": "alpha_test"
+        }
+      },
+      "minecraft:map_color": "#5f4a2b"
+    },
+    "permutations": [
+      {
+        "condition": "q.block_state('sb:table_part') == 'center'",
+        "components": {
+          "minecraft:geometry": {
+            "identifier": "geometry.large_table_center"
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('sb:table_part') == 'north'",
+        "components": {
+          "minecraft:geometry": {
+            "identifier": "geometry.large_table_north"
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('sb:table_part') == 'south'",
+        "components": {
+          "minecraft:geometry": {
+            "identifier": "geometry.large_table_south"
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('sb:table_part') == 'east'",
+        "components": {
+          "minecraft:geometry": {
+            "identifier": "geometry.large_table_east"
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('sb:table_part') == 'west'",
+        "components": {
+          "minecraft:geometry": {
+            "identifier": "geometry.large_table_west"
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('sb:table_part') == 'nw'",
+        "components": {
+          "minecraft:geometry": {
+            "identifier": "geometry.large_table_nw"
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('sb:table_part') == 'ne'",
+        "components": {
+          "minecraft:geometry": {
+            "identifier": "geometry.large_table_ne"
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('sb:table_part') == 'sw'",
+        "components": {
+          "minecraft:geometry": {
+            "identifier": "geometry.large_table_sw"
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('sb:table_part') == 'se'",
+        "components": {
+          "minecraft:geometry": {
+            "identifier": "geometry.large_table_se"
+          }
+        }
+      }
+    ]
+  }
+}

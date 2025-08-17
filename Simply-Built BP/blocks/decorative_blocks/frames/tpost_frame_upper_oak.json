@@ -44,17 +44,17 @@
       "minecraft:geometry": "geometry.tpost_frame_upper",
       "minecraft:material_instances": {
         "*": {
-          "texture": "oak_frame",
+          "texture": "frame_oak",
           "render_method": "alpha_test"
         }
       },
       "minecraft:selection_box": {
         "origin": [-3, 0, 6],
-        "size": [6, 10, 2]
+        "size": [6, 16, 2]
       },
       "minecraft:collision_box": {
         "origin": [-3, 0, 6],
-        "size": [6, 10, 2]
+        "size": [6, 16, 2]
       },
       "minecraft:map_color": "#8E693B",
       "tag:minecraft:is_axe_item_destructible": {},

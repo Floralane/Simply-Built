@@ -44,7 +44,7 @@
       "minecraft:geometry": "geometry.vertical_frame_middle",
       "minecraft:material_instances": {
         "*": {
-          "texture": "oak_frame",
+          "texture": "frame_oak",
           "render_method": "alpha_test"
         }
       },

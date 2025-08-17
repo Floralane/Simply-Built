@@ -4,7 +4,7 @@
     "description": {
       "identifier": "sb:spruce_baluster",
       "menu_category": {
-        "category": "items"
+        "category": "construction"
       },
       "traits": {
         "minecraft:placement_direction": {
@@ -44,7 +44,7 @@
       "minecraft:geometry": "geometry.baluster",
       "minecraft:material_instances": {
         "*": {
-          "texture": "spruce_baluster",
+          "texture": "baluster_spruce",
           "render_method": "alpha_test"
         }
       },

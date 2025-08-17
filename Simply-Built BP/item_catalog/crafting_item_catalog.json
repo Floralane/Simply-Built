@@ -7,80 +7,100 @@
                 "groups": [
                     {
                         "group_identifier": {
-                            "icon": "sb:vertical_oak_planks",
-                            "name": "sb: Vertical Planks"
+                            "icon": "sb:smooth_planks_oak",
+                            "name": "sb:itemGroup.name.planks"
                         },
                         "items": [
-                            "sb:vertical_oak_planks",
-                            "sb:vertical_spruce_planks",
-                            "sb:vertical_birch_planks",
-                            "sb:vertical_jungle_planks",
-                            "sb:vertical_acacia_planks",
-                            "sb:vertical_dark_oak_planks",
-                            "sb:vertical_mangrove_planks",
-                            "sb:vertical_cherry_planks",
-                            "sb:vertical_bamboo_planks",
-                            "sb:vertical_pale_oak_planks",
-                            "sb:vertical_crimson_planks",
-                            "sb:vertical_warped_planks"
+                            "sb:smooth_planks_oak",
+                            "sb:smooth_planks_spruce",
+                            "sb:smooth_planks_birch",
+                            "sb:smooth_planks_jungle",
+                            "sb:smooth_planks_acacia",
+                            "sb:smooth_planks_dark_oak",
+                            "sb:smooth_planks_mangrove",
+                            "sb:smooth_planks_cherry",
+                            "sb:smooth_planks_bamboo",
+                            "sb:smooth_planks_pale_oak",
+                            "sb:smooth_planks_crimson",
+                            "sb:smooth_planks_warped",
+                            "sb:vertical_planks_oak",
+                            "sb:vertical_planks_spruce",
+                            "sb:vertical_planks_birch",
+                            "sb:vertical_planks_jungle",
+                            "sb:vertical_planks_acacia",
+                            "sb:vertical_planks_dark_oak",
+                            "sb:vertical_planks_mangrove",
+                            "sb:vertical_planks_cherry",
+                            "sb:vertical_planks_bamboo",
+                            "sb:vertical_planks_pale_oak",
+                            "sb:vertical_planks_crimson",
+                            "sb:vertical_planks_warped"
                         ]
                     },
                     {
                         "group_identifier": {
-                            "icon": "sb:large_oak_planks",
-                            "name": "sb: Large Planks"
+                            "icon": "sb:large_planks_oak",
+                            "name": "sb:itemGroup.name.large_planks"
                         },
                         "items": [
-                            "sb:large_oak_planks",
-                            "sb:large_spruce_planks",
-                            "sb:large_birch_planks",
-                            "sb:large_jungle_planks",
-                            "sb:large_acacia_planks",
-                            "sb:large_dark_oak_planks",
-                            "sb:large_mangrove_planks",
-                            "sb:large_cherry_planks",
-                            "sb:large_bamboo_planks",
-                            "sb:large_pale_oak_planks",
-                            "sb:large_crimson_planks",
-                            "sb:large_warped_planks"
+                            "sb:large_planks_oak",
+                            "sb:large_planks_spruce",
+                            "sb:large_planks_birch",
+                            "sb:large_planks_jungle",
+                            "sb:large_planks_acacia",
+                            "sb:large_planks_dark_oak",
+                            "sb:large_planks_mangrove",
+                            "sb:large_planks_cherry",
+                            "sb:large_planks_bamboo",
+                            "sb:large_planks_pale_oak",
+                            "sb:large_planks_crimson",
+                            "sb:large_planks_warped"
                         ]
                     },
                     {
                         "group_identifier": {
-                            "icon": "sb:large_clean_oak_planks",
-                            "name": "sb: Large Clean Planks"
+                            "icon": "sb:large_clean_planks_oak",
+                            "name": "sb:itemGroup.name.large_clean_planks"
                         },
                         "items": [
-                            "sb:large_clean_oak_planks",
-                            "sb:large_clean_spruce_planks",
-                            "sb:large_clean_birch_planks",
-                            "sb:large_clean_jungle_planks",
-                            "sb:large_clean_acacia_planks",
-                            "sb:large_clean_dark_oak_planks",
-                            "sb:large_clean_mangrove_planks",
-                            "sb:large_clean_cherry_planks",
-                            "sb:large_clean_bamboo_planks",
-                            "sb:large_clean_pale_oak_planks",
-                            "sb:large_clean_crimson_planks",
-                            "sb:large_clean_warped_planks",
-                            "sb:vertical_large_clean_oak_planks",
-                            "sb:vertical_large_clean_spruce_planks",
-                            "sb:vertical_large_clean_birch_planks",
-                            "sb:vertical_large_clean_jungle_planks",
-                            "sb:vertical_large_clean_acacia_planks",
-                            "sb:vertical_large_clean_dark_oak_planks",
-                            "sb:vertical_large_clean_mangrove_planks",
-                            "sb:vertical_large_clean_cherry_planks",
-                            "sb:vertical_large_clean_bamboo_planks",
-                            "sb:vertical_large_clean_pale_oak_planks",
-                            "sb:vertical_large_clean_crimson_planks",
-                            "sb:vertical_large_clean_warped_planks"
+                            "sb:large_clean_planks_oak",
+                            "sb:large_clean_planks_spruce",
+                            "sb:large_clean_planks_birch",
+                            "sb:large_clean_planks_jungle",
+                            "sb:large_clean_planks_acacia",
+                            "sb:large_clean_planks_dark_oak",
+                            "sb:large_clean_planks_mangrove",
+                            "sb:large_clean_planks_cherry",
+                            "sb:large_clean_planks_bamboo",
+                            "sb:large_clean_planks_pale_oak",
+                            "sb:large_clean_planks_crimson",
+                            "sb:large_clean_planks_warped"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "sb:vertical_large_clean_planks_oak",
+                            "name": "sb:itemGroup.name.vertical_large_clean_planks"
+                        },
+                        "items": [
+                            "sb:vertical_large_clean_planks_oak",
+                            "sb:vertical_large_clean_planks_spruce",
+                            "sb:vertical_large_clean_planks_birch",
+                            "sb:vertical_large_clean_planks_jungle",
+                            "sb:vertical_large_clean_planks_acacia",
+                            "sb:vertical_large_clean_planks_dark_oak",
+                            "sb:vertical_large_clean_planks_mangrove",
+                            "sb:vertical_large_clean_planks_cherry",
+                            "sb:vertical_large_clean_planks_bamboo",
+                            "sb:vertical_large_clean_planks_pale_oak",
+                            "sb:vertical_large_clean_planks_crimson",
+                            "sb:vertical_large_clean_planks_warped"
                         ]
                     },
                     {
                         "group_identifier": {
                             "icon": "sb:oak_trim",
-                            "name": "sb: Wooden Trim"
+                            "name": "sb:itemGroup.name.wood_trims"
                         },
                         "items": [
                             "sb:oak_trim",
@@ -100,7 +120,7 @@
                     {
                         "group_identifier": {
                             "icon": "sb:oak_shingles",
-                            "name": "sb: Wooden Shingles"
+                            "name": "sb:itemGroup.name.wood_shingles"
                         },
                         "items": [
                             "sb:oak_shingles",
@@ -120,7 +140,7 @@
                     {
                         "group_identifier": {
                             "icon": "sb:terracotta_bricks",
-                            "name": "sb: Terracotta Bricks"
+                            "name": "sb:itemGroup.name.terracotta_bricks"
                         },
                         "items": [
                             "sb:terracotta_bricks",
@@ -145,7 +165,7 @@
                     {
                         "group_identifier": {
                             "icon": "sb:diorite_bricks",
-                            "name": "sb: Diorite Blocks"
+                            "name": "sb:itemGroup.name.diorite_blocks"
                         },
                         "items": [
                             "sb:diorite_pillar",
@@ -158,7 +178,7 @@
                     {
                         "group_identifier": {
                             "icon": "sb:andesite_bricks",
-                            "name": "sb: Andesite Blocks"
+                            "name": "sb:itemGroup.name.andesite_blocks"
                         },
                         "items": [
                             "sb:andesite_pillar",
@@ -171,7 +191,7 @@
                     {
                         "group_identifier": {
                             "icon": "sb:granite_bricks",
-                            "name": "sb: Granite Blocks"
+                            "name": "sb:itemGroup.name.granite_blocks"
                         },
                         "items": [
                             "sb:granite_pillar",
@@ -184,22 +204,14 @@
                     {
                         "group_identifier": {
                             "icon": "sb:sandstone_bricks",
-                            "name": "sb: Sandstone Blocks"
+                            "name": "sb:itemGroup.name.sandstone_blocks"
                         },
                         "items": [
                             "sb:sandstone_pillar",
                             "sb:sandstone_bricks",
                             "sb:sandstone_small_bricks",
                             "sb:sandstone_tiles",
-                            "sb:sandstone_herringbone_bricks"
-                        ]
-                    },
-                    {
-                        "group_identifier": {
-                            "icon": "sb:red_sandstone_bricks",
-                            "name": "sb: Red Sandstone Blocks"
-                        },
-                        "items": [
+                            "sb:sandstone_herringbone_bricks",
                             "sb:red_sandstone_pillar",
                             "sb:red_sandstone_bricks",
                             "sb:red_sandstone_small_bricks",
@@ -209,241 +221,8 @@
                     },
                     {
                         "group_identifier": {
-                            "icon": "sb:vertical_frame_middle_oak",
-                            "name": "sb: Oak Support Frames"
-                        },
-                        "items": [
-                            "sb:vertical_frame_left_oak",
-                            "sb:vertical_frame_right_oak",
-                            "sb:vertical_frame_middle_oak",
-                            "sb:tpost_frame_lower_oak",
-                            "sb:tpost_frame_upper_oak",
-                            "sb:horizontal_frame_lower_oak",
-                            "sb:horizontal_frame_upper_oak",
-                            "sb:corner_frame_lower_left_oak",
-                            "sb:corner_frame_lower_right_oak",
-                            "sb:corner_frame_upper_left_oak",
-                            "sb:corner_frame_upper_right_oak"
-                        ]
-                    },
-                    {
-                        "group_identifier": {
-                            "icon": "sb:vertical_frame_middle_spruce",
-                            "name": "sb: Spruce Support Frames"
-                        },
-                        "items": [
-                            "sb:vertical_frame_left_spruce",
-                            "sb:vertical_frame_right_spruce",
-                            "sb:vertical_frame_middle_spruce",
-                            "sb:tpost_frame_lower_spruce",
-                            "sb:tpost_frame_upper_spruce",
-                            "sb:horizontal_frame_lower_spruce",
-                            "sb:horizontal_frame_upper_spruce",
-                            "sb:corner_frame_lower_left_spruce",
-                            "sb:corner_frame_lower_right_spruce",
-                            "sb:corner_frame_upper_left_spruce",
-                            "sb:corner_frame_upper_right_spruce"
-                        ]
-                    },
-                    {
-                        "group_identifier": {
-                            "icon": "sb:vertical_frame_middle_birch",
-                            "name": "sb: Birch Support Frames"
-                        },
-                        "items": [
-                            "sb:vertical_frame_left_birch",
-                            "sb:vertical_frame_right_birch",
-                            "sb:vertical_frame_middle_birch",
-                            "sb:tpost_frame_lower_birch",
-                            "sb:tpost_frame_upper_birch",
-                            "sb:horizontal_frame_lower_birch",
-                            "sb:horizontal_frame_upper_birch",
-                            "sb:corner_frame_lower_left_birch",
-                            "sb:corner_frame_lower_right_birch",
-                            "sb:corner_frame_upper_left_birch",
-                            "sb:corner_frame_upper_right_birch"
-                        ]
-                    },
-                    {
-                        "group_identifier": {
-                            "icon": "sb:vertical_frame_middle_jungle",
-                            "name": "sb: Jungle Support Frames"
-                        },
-                        "items": [
-                            "sb:vertical_frame_left_jungle",
-                            "sb:vertical_frame_right_jungle",
-                            "sb:vertical_frame_middle_jungle",
-                            "sb:tpost_frame_lower_jungle",
-                            "sb:tpost_frame_upper_jungle",
-                            "sb:horizontal_frame_lower_jungle",
-                            "sb:horizontal_frame_upper_jungle",
-                            "sb:corner_frame_lower_left_jungle",
-                            "sb:corner_frame_lower_right_jungle",
-                            "sb:corner_frame_upper_left_jungle",
-                            "sb:corner_frame_upper_right_jungle"
-                        ]
-                    },
-                    {
-                        "group_identifier": {
-                            "icon": "sb:vertical_frame_middle_acacia",
-                            "name": "sb: Acacia Support Frames"
-                        },
-                        "items": [
-                            "sb:vertical_frame_left_acacia",
-                            "sb:vertical_frame_right_acacia",
-                            "sb:vertical_frame_middle_acacia",
-                            "sb:tpost_frame_lower_acacia",
-                            "sb:tpost_frame_upper_acacia",
-                            "sb:horizontal_frame_lower_acacia",
-                            "sb:horizontal_frame_upper_acacia",
-                            "sb:corner_frame_lower_left_acacia",
-                            "sb:corner_frame_lower_right_acacia",
-                            "sb:corner_frame_upper_left_acacia",
-                            "sb:corner_frame_upper_right_acacia"
-                        ]
-                    },
-                    {
-                        "group_identifier": {
-                            "icon": "sb:vertical_frame_middle_dark_oak",
-                            "name": "sb: Dark Support Frames"
-                        },
-                        "items": [
-                            "sb:vertical_frame_left_dark_oak",
-                            "sb:vertical_frame_right_dark_oak",
-                            "sb:vertical_frame_middle_dark_oak",
-                            "sb:tpost_frame_lower_dark_oak",
-                            "sb:tpost_frame_upper_dark_oak",
-                            "sb:horizontal_frame_lower_dark_oak",
-                            "sb:horizontal_frame_upper_dark_oak",
-                            "sb:corner_frame_lower_left_dark_oak",
-                            "sb:corner_frame_lower_right_dark_oak",
-                            "sb:corner_frame_upper_left_dark_oak",
-                            "sb:corner_frame_upper_right_dark_oak"
-                        ]
-                    },
-                    {
-                        "group_identifier": {
-                            "icon": "sb:vertical_frame_middle_mangrove",
-                            "name": "sb: Mangrove Support Frames"
-                        },
-                        "items": [
-                            "sb:vertical_frame_left_mangrove",
-                            "sb:vertical_frame_right_mangrove",
-                            "sb:vertical_frame_middle_mangrove",
-                            "sb:tpost_frame_lower_mangrove",
-                            "sb:tpost_frame_upper_mangrove",
-                            "sb:horizontal_frame_lower_mangrove",
-                            "sb:horizontal_frame_upper_mangrove",
-                            "sb:corner_frame_lower_left_mangrove",
-                            "sb:corner_frame_lower_right_mangrove",
-                            "sb:corner_frame_upper_left_mangrove",
-                            "sb:corner_frame_upper_right_mangrove"
-                        ]
-                    },
-                    {
-                        "group_identifier": {
-                            "icon": "sb:vertical_frame_middle_cherry",
-                            "name": "sb: Cherry Support Frames"
-                        },
-                        "items": [
-                            "sb:vertical_frame_left_cherry",
-                            "sb:vertical_frame_right_cherry",
-                            "sb:vertical_frame_middle_cherry",
-                            "sb:tpost_frame_lower_cherry",
-                            "sb:tpost_frame_upper_cherry",
-                            "sb:horizontal_frame_lower_cherry",
-                            "sb:horizontal_frame_upper_cherry",
-                            "sb:corner_frame_lower_left_cherry",
-                            "sb:corner_frame_lower_right_cherry",
-                            "sb:corner_frame_upper_left_cherry",
-                            "sb:corner_frame_upper_right_cherry"
-                        ]
-                    },
-                    {
-                        "group_identifier": {
-                            "icon": "sb:vertical_frame_middle_bamboo",
-                            "name": "sb: Bamboo Support Frames"
-                        },
-                        "items": [
-                            "sb:vertical_frame_left_bamboo",
-                            "sb:vertical_frame_right_bamboo",
-                            "sb:vertical_frame_middle_bamboo",
-                            "sb:tpost_frame_lower_bamboo",
-                            "sb:tpost_frame_upper_bamboo",
-                            "sb:horizontal_frame_lower_bamboo",
-                            "sb:horizontal_frame_upper_bamboo",
-                            "sb:corner_frame_lower_left_bamboo",
-                            "sb:corner_frame_lower_right_bamboo",
-                            "sb:corner_frame_upper_left_bamboo",
-                            "sb:corner_frame_upper_right_bamboo"
-                        ]
-                    },
-                    {
-                        "group_identifier": {
-                            "icon": "sb:vertical_frame_middle_pale_oak",
-                            "name": "sb: Pale Oak Support Frames"
-                        },
-                        "items": [
-                            "sb:vertical_frame_left_pale_oak",
-                            "sb:vertical_frame_right_pale_oak",
-                            "sb:vertical_frame_middle_pale_oak",
-                            "sb:tpost_frame_lower_pale_oak",
-                            "sb:tpost_frame_upper_pale_oak",
-                            "sb:horizontal_frame_lower_pale_oak",
-                            "sb:horizontal_frame_upper_pale_oak",
-                            "sb:corner_frame_lower_left_pale_oak",
-                            "sb:corner_frame_lower_right_pale_oak",
-                            "sb:corner_frame_upper_left_pale_oak",
-                            "sb:corner_frame_upper_right_pale_oak"
-                        ]
-                    },
-                    {
-                        "group_identifier": {
-                            "icon": "sb:vertical_frame_middle_crimson",
-                            "name": "sb: Crimson Support Frames"
-                        },
-                        "items": [
-                            "sb:vertical_frame_left_crimson",
-                            "sb:vertical_frame_right_crimson",
-                            "sb:vertical_frame_middle_crimson",
-                            "sb:tpost_frame_lower_crimson",
-                            "sb:tpost_frame_upper_crimson",
-                            "sb:horizontal_frame_lower_crimson",
-                            "sb:horizontal_frame_upper_crimson",
-                            "sb:corner_frame_lower_left_crimson",
-                            "sb:corner_frame_lower_right_crimson",
-                            "sb:corner_frame_upper_left_crimson",
-                            "sb:corner_frame_upper_right_crimson"
-                        ]
-                    },
-                    {
-                        "group_identifier": {
-                            "icon": "sb:vertical_frame_middle_warped",
-                            "name": "sb: Warped Support Frames"
-                        },
-                        "items": [
-                            "sb:vertical_frame_left_warped",
-                            "sb:vertical_frame_right_warped",
-                            "sb:vertical_frame_middle_warped",
-                            "sb:tpost_frame_lower_warped",
-                            "sb:tpost_frame_upper_warped",
-                            "sb:horizontal_frame_lower_warped",
-                            "sb:horizontal_frame_upper_warped",
-                            "sb:corner_frame_lower_left_warped",
-                            "sb:corner_frame_lower_right_warped",
-                            "sb:corner_frame_upper_left_warped",
-                            "sb:corner_frame_upper_right_warped"
-                        ]
-                    }
-                ]
-            },
-            {
-                "category_name": "items",
-                "groups": [
-                    {
-                        "group_identifier": {
                             "icon": "sb:oak_baluster",
-                            "name": "sb: Wooden Balusters"
+                            "name": "sb:itemGroup.name.wooden_balusters"
                         },
                         "items": [
                             "sb:oak_baluster",
@@ -457,7 +236,322 @@
                             "sb:bamboo_baluster",
                             "sb:pale_oak_baluster",
                             "sb:crimson_baluster",
-                            "sb:warped_baluster"
+                            "sb:warped_baluster",
+                            "sb:oak_baluster_post",
+                            "sb:spruce_baluster_post",
+                            "sb:birch_baluster_post",
+                            "sb:jungle_baluster_post",
+                            "sb:acacia_baluster_post",
+                            "sb:dark_oak_baluster_post",
+                            "sb:mangrove_baluster_post",
+                            "sb:cherry_baluster_post",
+                            "sb:bamboo_baluster_post",
+                            "sb:pale_oak_baluster_post",
+                            "sb:crimson_baluster_post",
+                            "sb:warped_baluster_post"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "sb:vertical_frame_middle_oak",
+                            "name": "sb:itemGroup.name.oak_timber_frames"
+                        },
+                        "items": [
+                            "sb:vertical_frame_left_oak",
+                            "sb:vertical_frame_middle_oak",
+                            "sb:vertical_frame_right_oak",
+                            "sb:horizontal_frame_lower_oak",
+                            "sb:horizontal_frame_middle_oak",
+                            "sb:horizontal_frame_upper_oak",
+                            "sb:corner_frame_lower_left_oak",
+                            "sb:corner_frame_lower_right_oak",
+                            "sb:corner_frame_upper_left_oak",
+                            "sb:corner_frame_upper_right_oak",
+                            "sb:tpost_frame_lower_oak",
+                            "sb:tpost_frame_upper_oak",
+                            "sb:vertical_frame_cross_oak",
+                            "sb:horizontal_frame_cross_oak",
+                            "sb:angled_frame_left_oak",
+                            "sb:angled_frame_right_oak"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "sb:vertical_frame_middle_spruce",
+                            "name": "sb:itemGroup.name.spruce_timber_frames"
+                        },
+                        "items": [
+                            "sb:vertical_frame_left_spruce",
+                            "sb:vertical_frame_middle_spruce",
+                            "sb:vertical_frame_right_spruce",
+                            "sb:horizontal_frame_lower_spruce",
+                            "sb:horizontal_frame_middle_spruce",
+                            "sb:horizontal_frame_upper_spruce",
+                            "sb:corner_frame_lower_left_spruce",
+                            "sb:corner_frame_lower_right_spruce",
+                            "sb:corner_frame_upper_left_spruce",
+                            "sb:corner_frame_upper_right_spruce",
+                            "sb:tpost_frame_lower_spruce",
+                            "sb:tpost_frame_upper_spruce",
+                            "sb:vertical_frame_cross_spruce",
+                            "sb:horizontal_frame_cross_spruce",
+                            "sb:angled_frame_left_spruce",
+                            "sb:angled_frame_right_spruce"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "sb:vertical_frame_middle_birch",
+                            "name": "sb:itemGroup.name.birch_timber_frames"
+                        },
+                        "items": [
+                            "sb:vertical_frame_left_birch",
+                            "sb:vertical_frame_middle_birch",
+                            "sb:vertical_frame_right_birch",
+                            "sb:horizontal_frame_lower_birch",
+                            "sb:horizontal_frame_middle_birch",
+                            "sb:horizontal_frame_upper_birch",
+                            "sb:corner_frame_lower_left_birch",
+                            "sb:corner_frame_lower_right_birch",
+                            "sb:corner_frame_upper_left_birch",
+                            "sb:corner_frame_upper_right_birch",
+                            "sb:tpost_frame_lower_birch",
+                            "sb:tpost_frame_upper_birch",
+                            "sb:vertical_frame_cross_birch",
+                            "sb:horizontal_frame_cross_birch",
+                            "sb:angled_frame_left_birch",
+                            "sb:angled_frame_right_birch"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "sb:vertical_frame_middle_jungle",
+                            "name": "sb:itemGroup.name.jungle_timber_frames"
+                        },
+                        "items": [
+                            "sb:vertical_frame_left_jungle",
+                            "sb:vertical_frame_middle_jungle",
+                            "sb:vertical_frame_right_jungle",
+                            "sb:horizontal_frame_lower_jungle",
+                            "sb:horizontal_frame_middle_jungle",
+                            "sb:horizontal_frame_upper_jungle",
+                            "sb:corner_frame_lower_left_jungle",
+                            "sb:corner_frame_lower_right_jungle",
+                            "sb:corner_frame_upper_left_jungle",
+                            "sb:corner_frame_upper_right_jungle",
+                            "sb:tpost_frame_lower_jungle",
+                            "sb:tpost_frame_upper_jungle",
+                            "sb:vertical_frame_cross_jungle",
+                            "sb:horizontal_frame_cross_jungle",
+                            "sb:angled_frame_left_jungle",
+                            "sb:angled_frame_right_jungle"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "sb:vertical_frame_middle_acacia",
+                            "name": "sb:itemGroup.name.acacia_timber_frames"
+                        },
+                        "items": [
+                            "sb:vertical_frame_left_acacia",
+                            "sb:vertical_frame_middle_acacia",
+                            "sb:vertical_frame_right_acacia",
+                            "sb:horizontal_frame_lower_acacia",
+                            "sb:horizontal_frame_middle_acacia",
+                            "sb:horizontal_frame_upper_acacia",
+                            "sb:corner_frame_lower_left_acacia",
+                            "sb:corner_frame_lower_right_acacia",
+                            "sb:corner_frame_upper_left_acacia",
+                            "sb:corner_frame_upper_right_acacia",
+                            "sb:tpost_frame_lower_acacia",
+                            "sb:tpost_frame_upper_acacia",
+                            "sb:vertical_frame_cross_acacia",
+                            "sb:horizontal_frame_cross_acacia",
+                            "sb:angled_frame_left_acacia",
+                            "sb:angled_frame_right_acacia"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "sb:vertical_frame_middle_dark_oak",
+                            "name": "sb:itemGroup.name.dark_oak_timber_frames"
+                        },
+                        "items": [
+                            "sb:vertical_frame_left_dark_oak",
+                            "sb:vertical_frame_middle_dark_oak",
+                            "sb:vertical_frame_right_dark_oak",
+                            "sb:horizontal_frame_lower_dark_oak",
+                            "sb:horizontal_frame_middle_dark_oak",
+                            "sb:horizontal_frame_upper_dark_oak",
+                            "sb:corner_frame_lower_left_dark_oak",
+                            "sb:corner_frame_lower_right_dark_oak",
+                            "sb:corner_frame_upper_left_dark_oak",
+                            "sb:corner_frame_upper_right_dark_oak",
+                            "sb:tpost_frame_lower_dark_oak",
+                            "sb:tpost_frame_upper_dark_oak",
+                            "sb:vertical_frame_cross_dark_oak",
+                            "sb:horizontal_frame_cross_dark_oak",
+                            "sb:angled_frame_left_dark_oak",
+                            "sb:angled_frame_right_dark_oak"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "sb:vertical_frame_middle_mangrove",
+                            "name": "sb:itemGroup.name.mangrove_timber_frames"
+                        },
+                        "items": [
+                            "sb:vertical_frame_left_mangrove",
+                            "sb:vertical_frame_middle_mangrove",
+                            "sb:vertical_frame_right_mangrove",
+                            "sb:horizontal_frame_lower_mangrove",
+                            "sb:horizontal_frame_middle_mangrove",
+                            "sb:horizontal_frame_upper_mangrove",
+                            "sb:corner_frame_lower_left_mangrove",
+                            "sb:corner_frame_lower_right_mangrove",
+                            "sb:corner_frame_upper_left_mangrove",
+                            "sb:corner_frame_upper_right_mangrove",
+                            "sb:tpost_frame_lower_mangrove",
+                            "sb:tpost_frame_upper_mangrove",
+                            "sb:vertical_frame_cross_mangrove",
+                            "sb:horizontal_frame_cross_mangrove",
+                            "sb:angled_frame_left_mangrove",
+                            "sb:angled_frame_right_mangrove"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "sb:vertical_frame_middle_cherry",
+                            "name": "sb:itemGroup.name.cherry_timber_frames"
+                        },
+                        "items": [
+                            "sb:vertical_frame_left_cherry",
+                            "sb:vertical_frame_middle_cherry",
+                            "sb:vertical_frame_right_cherry",
+                            "sb:horizontal_frame_lower_cherry",
+                            "sb:horizontal_frame_middle_cherry",
+                            "sb:horizontal_frame_upper_cherry",
+                            "sb:corner_frame_lower_left_cherry",
+                            "sb:corner_frame_lower_right_cherry",
+                            "sb:corner_frame_upper_left_cherry",
+                            "sb:corner_frame_upper_right_cherry",
+                            "sb:tpost_frame_lower_cherry",
+                            "sb:tpost_frame_upper_cherry",
+                            "sb:vertical_frame_cross_cherry",
+                            "sb:horizontal_frame_cross_cherry",
+                            "sb:angled_frame_left_cherry",
+                            "sb:angled_frame_right_cherry"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "sb:vertical_frame_middle_bamboo",
+                            "name": "sb:itemGroup.name.bamboo_timber_frames"
+                        },
+                        "items": [
+                            "sb:vertical_frame_left_bamboo",
+                            "sb:vertical_frame_middle_bamboo",
+                            "sb:vertical_frame_right_bamboo",
+                            "sb:horizontal_frame_lower_bamboo",
+                            "sb:horizontal_frame_middle_bamboo",
+                            "sb:horizontal_frame_upper_bamboo",
+                            "sb:corner_frame_lower_left_bamboo",
+                            "sb:corner_frame_lower_right_bamboo",
+                            "sb:corner_frame_upper_left_bamboo",
+                            "sb:corner_frame_upper_right_bamboo",
+                            "sb:tpost_frame_lower_bamboo",
+                            "sb:tpost_frame_upper_bamboo",
+                            "sb:vertical_frame_cross_bamboo",
+                            "sb:horizontal_frame_cross_bamboo",
+                            "sb:angled_frame_left_bamboo",
+                            "sb:angled_frame_right_bamboo"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "sb:vertical_frame_middle_pale_oak",
+                            "name": "sb:itemGroup.name.pale_oak_timber_frames"
+                        },
+                        "items": [
+                            "sb:vertical_frame_left_pale_oak",
+                            "sb:vertical_frame_middle_pale_oak",
+                            "sb:vertical_frame_right_pale_oak",
+                            "sb:horizontal_frame_lower_pale_oak",
+                            "sb:horizontal_frame_middle_pale_oak",
+                            "sb:horizontal_frame_upper_pale_oak",
+                            "sb:corner_frame_lower_left_pale_oak",
+                            "sb:corner_frame_lower_right_pale_oak",
+                            "sb:corner_frame_upper_left_pale_oak",
+                            "sb:corner_frame_upper_right_pale_oak",
+                            "sb:tpost_frame_lower_pale_oak",
+                            "sb:tpost_frame_upper_pale_oak",
+                            "sb:vertical_frame_cross_pale_oak",
+                            "sb:horizontal_frame_cross_pale_oak",
+                            "sb:angled_frame_left_pale_oak",
+                            "sb:angled_frame_right_pale_oak"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "sb:vertical_frame_middle_crimson",
+                            "name": "sb:itemGroup.name.crimson_timber_frames"
+                        },
+                        "items": [
+                            "sb:vertical_frame_left_crimson",
+                            "sb:vertical_frame_middle_crimson",
+                            "sb:vertical_frame_right_crimson",
+                            "sb:horizontal_frame_lower_crimson",
+                            "sb:horizontal_frame_middle_crimson",
+                            "sb:horizontal_frame_upper_crimson",
+                            "sb:corner_frame_lower_left_crimson",
+                            "sb:corner_frame_lower_right_crimson",
+                            "sb:corner_frame_upper_left_crimson",
+                            "sb:corner_frame_upper_right_crimson",
+                            "sb:tpost_frame_lower_crimson",
+                            "sb:tpost_frame_upper_crimson",
+                            "sb:vertical_frame_cross_crimson",
+                            "sb:horizontal_frame_cross_crimson",
+                            "sb:angled_frame_left_crimson",
+                            "sb:angled_frame_right_crimson"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "sb:vertical_frame_middle_warped",
+                            "name": "sb:itemGroup.name.warped_timber_frames"
+                        },
+                        "items": [
+                            "sb:vertical_frame_left_warped",
+                            "sb:vertical_frame_middle_warped",
+                            "sb:vertical_frame_right_warped",
+                            "sb:horizontal_frame_lower_warped",
+                            "sb:horizontal_frame_middle_warped",
+                            "sb:horizontal_frame_upper_warped",
+                            "sb:corner_frame_lower_left_warped",
+                            "sb:corner_frame_lower_right_warped",
+                            "sb:corner_frame_upper_left_warped",
+                            "sb:corner_frame_upper_right_warped",
+                            "sb:tpost_frame_lower_warped",
+                            "sb:tpost_frame_upper_warped",
+                            "sb:vertical_frame_cross_warped",
+                            "sb:horizontal_frame_cross_warped",
+                            "sb:angled_frame_left_warped",
+                            "sb:angled_frame_right_warped"
+                        ]
+                    }
+                ]
+            },
+            {
+                "category_name": "items",
+                "groups": [
+                    {
+                        "group_identifier": {
+                            "icon": "sb:large_table_oak",
+                            "name": "sb:itemGroup.name.large_tables"
+                        },
+                        "items": [
+                            "sb:large_table_oak",
+                            "sb:large_table_spruce"
                         ]
                     }
                 ]

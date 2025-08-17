@@ -44,7 +44,7 @@
       "minecraft:geometry": "geometry.horizontal_frame_lower",
       "minecraft:material_instances": {
         "*": {
-          "texture": "pale_oak_frame",
+          "texture": "frame_pale_oak",
           "render_method": "alpha_test"
         }
       },

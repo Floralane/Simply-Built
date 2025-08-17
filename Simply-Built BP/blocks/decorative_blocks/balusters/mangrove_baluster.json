@@ -4,7 +4,7 @@
     "description": {
       "identifier": "sb:mangrove_baluster",
       "menu_category": {
-        "category": "items"
+        "category": "construction"
       },
       "traits": {
         "minecraft:placement_direction": {
@@ -44,7 +44,7 @@
       "minecraft:geometry": "geometry.baluster",
       "minecraft:material_instances": {
         "*": {
-          "texture": "mangrove_baluster",
+          "texture": "baluster_mangrove",
           "render_method": "alpha_test"
         }
       },

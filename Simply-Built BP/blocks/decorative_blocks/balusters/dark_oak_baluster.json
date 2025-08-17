@@ -4,7 +4,7 @@
     "description": {
       "identifier": "sb:dark_oak_baluster",
       "menu_category": {
-        "category": "items"
+        "category": "construction"
       },
       "traits": {
         "minecraft:placement_direction": {
@@ -44,7 +44,7 @@
       "minecraft:geometry": "geometry.baluster",
       "minecraft:material_instances": {
         "*": {
-          "texture": "dark_oak_baluster",
+          "texture": "baluster_dark_oak",
           "render_method": "alpha_test"
         }
       },

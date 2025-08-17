@@ -4,7 +4,7 @@
     "description": {
       "identifier": "sb:bamboo_baluster",
       "menu_category": {
-        "category": "items"
+        "category": "construction"
       },
       "traits": {
         "minecraft:placement_direction": {
@@ -44,7 +44,7 @@
       "minecraft:geometry": "geometry.baluster",
       "minecraft:material_instances": {
         "*": {
-          "texture": "bamboo_baluster",
+          "texture": "baluster_bamboo",
           "render_method": "alpha_test"
         }
       },

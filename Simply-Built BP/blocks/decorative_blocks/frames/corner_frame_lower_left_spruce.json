@@ -44,7 +44,7 @@
       "minecraft:geometry": "geometry.corner_frame_lower_left",
       "minecraft:material_instances": {
         "*": {
-          "texture": "spruce_frame",
+          "texture": "frame_spruce",
           "render_method": "alpha_test"
         }
       },

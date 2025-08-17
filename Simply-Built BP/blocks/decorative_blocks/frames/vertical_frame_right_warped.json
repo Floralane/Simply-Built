@@ -44,7 +44,7 @@
       "minecraft:geometry": "geometry.vertical_frame_right",
       "minecraft:material_instances": {
         "*": {
-          "texture": "warped_frame",
+          "texture": "frame_warped",
           "render_method": "alpha_test"
         }
       },

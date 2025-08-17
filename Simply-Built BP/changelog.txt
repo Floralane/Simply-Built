@@ -1,4 +1,4 @@
-BETA v2.1 Changelog
+BETA v2.2 Changelog
 
 New Features:
 ❖ Uploaded repo to GitHub
@@ -6,6 +6,7 @@ New Features:
 ❖ Added Wooden Balusters
 ❖ Added Wooden Support Frames
 ❖ Java stripped spruce log texture
+❖ Added Large Table
 
 Fixes:
 ❖ Regrouped stone blocks by stone type (eg.diorite) instead of block type (eg.diorite_pillar)

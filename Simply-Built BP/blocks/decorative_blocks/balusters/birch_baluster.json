@@ -4,7 +4,7 @@
     "description": {
       "identifier": "sb:birch_baluster",
       "menu_category": {
-        "category": "items"
+        "category": "construction"
       },
       "traits": {
         "minecraft:placement_direction": {
@@ -44,7 +44,7 @@
       "minecraft:geometry": "geometry.baluster",
       "minecraft:material_instances": {
         "*": {
-          "texture": "birch_baluster",
+          "texture": "baluster_birch",
           "render_method": "alpha_test"
         }
       },

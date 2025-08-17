@@ -4,7 +4,7 @@
     "description": {
       "identifier": "sb:jungle_baluster",
       "menu_category": {
-        "category": "items"
+        "category": "construction"
       },
       "traits": {
         "minecraft:placement_direction": {
@@ -44,7 +44,7 @@
       "minecraft:geometry": "geometry.baluster",
       "minecraft:material_instances": {
         "*": {
-          "texture": "jungle_baluster",
+          "texture": "baluster_jungle",
           "render_method": "alpha_test"
         }
       },

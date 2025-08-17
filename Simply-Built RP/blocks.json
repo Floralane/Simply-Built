@@ -4,245 +4,293 @@
 		1,
 		0
 	],
-	"sb:vertical_oak_planks": {
+	"sb:smooth_planks_oak": {
+		"sound": "wood",
+		"textures": "smooth_planks_oak"
+	},
+	"sb:smooth_planks_spruce": {
+		"sound": "wood",
+		"textures": "smooth_planks_spruce"
+	},
+	"sb:smooth_planks_birch": {
+		"sound": "wood",
+		"textures": "smooth_planks_birch"
+	},
+	"sb:smooth_planks_jungle": {
+		"sound": "wood",
+		"textures": "smooth_planks_jungle"
+	},
+	"sb:smooth_planks_acacia": {
+		"sound": "wood",
+		"textures": "smooth_planks_acacia"
+	},
+	"sb:smooth_planks_dark_oak": {
+		"sound": "wood",
+		"textures": "smooth_planks_dark_oak"
+	},
+	"sb:smooth_planks_mangrove": {
+		"sound": "wood",
+		"textures": "smooth_planks_mangrove"
+	},
+	"sb:smooth_planks_cherry": {
+		"sound": "wood",
+		"textures": "smooth_planks_cherry"
+	},
+	"sb:smooth_planks_bamboo": {
+		"sound": "wood",
+		"textures": "smooth_planks_bamboo"
+	},
+	"sb:smooth_planks_pale_oak": {
+		"sound": "wood",
+		"textures": "smooth_planks_pale_oak"
+	},
+	"sb:smooth_planks_crimson": {
+		"sound": "wood",
+		"textures": "smooth_planks_crimson"
+	},
+	"sb:smooth_planks_warped": {
+		"sound": "wood",
+		"textures": "smooth_planks_warped"
+	},
+	"sb:vertical_planks_oak": {
 		"sound": "wood",
 		"textures": "vertical_planks_oak"
 	},
-	"sb:vertical_spruce_planks": {
+	"sb:vertical_planks_spruce": {
 		"sound": "wood",
 		"textures": "vertical_planks_spruce"
 	},
-	"sb:vertical_birch_planks": {
+	"sb:vertical_planks_birch": {
 		"sound": "wood",
 		"textures": "vertical_planks_birch"
 	},
-	"sb:vertical_jungle_planks": {
+	"sb:vertical_planks_jungle": {
 		"sound": "wood",
 		"textures": "vertical_planks_jungle"
 	},
-	"sb:vertical_acacia_planks": {
+	"sb:vertical_planks_acacia": {
 		"sound": "wood",
 		"textures": "vertical_planks_acacia"
 	},
-	"sb:vertical_dark_oak_planks": {
+	"sb:vertical_planks_dark_oak": {
 		"sound": "wood",
 		"textures": "vertical_planks_dark_oak"
 	},
-	"sb:vertical_mangrove_planks": {
+	"sb:vertical_planks_mangrove": {
 		"sound": "wood",
 		"textures": "vertical_planks_mangrove"
 	},
-	"sb:vertical_cherry_planks": {
+	"sb:vertical_planks_cherry": {
 		"sound": "wood",
 		"textures": "vertical_planks_cherry"
 	},
-	"sb:vertical_bamboo_planks": {
+	"sb:vertical_planks_bamboo": {
 		"sound": "wood",
 		"textures": "vertical_planks_bamboo"
 	},
-	"sb:vertical_pale_oak_planks": {
+	"sb:vertical_planks_pale_oak": {
 		"sound": "wood",
 		"textures": "vertical_planks_pale_oak"
 	},
-	"sb:vertical_crimson_planks": {
+	"sb:vertical_planks_crimson": {
 		"sound": "wood",
 		"textures": "vertical_planks_crimson"
 	},
-	"sb:vertical_warped_planks": {
+	"sb:vertical_planks_warped": {
 		"sound": "wood",
 		"textures": "vertical_planks_warped"
 	},
-	"sb:large_oak_planks": {
+	"sb:large_planks_oak": {
 		"sound": "wood",
 		"textures": "large_planks_oak"
 	},
-	"sb:large_spruce_planks": {
+	"sb:large_planks_spruce": {
 		"sound": "wood",
 		"textures": "large_planks_spruce"
 	},
-	"sb:large_birch_planks": {
+	"sb:large_planks_birch": {
 		"sound": "wood",
 		"textures": "large_planks_birch"
 	},
-	"sb:large_jungle_planks": {
+	"sb:large_planks_jungle": {
 		"sound": "wood",
 		"textures": "large_planks_jungle"
 	},
-	"sb:large_acacia_planks": {
+	"sb:large_planks_acacia": {
 		"sound": "wood",
 		"textures": "large_planks_acacia"
 	},
-	"sb:large_dark_oak_planks": {
+	"sb:large_planks_dark_oak": {
 		"sound": "wood",
 		"textures": "large_planks_dark_oak"
 	},
-	"sb:large_mangrove_planks": {
+	"sb:large_planks_mangrove": {
 		"sound": "wood",
 		"textures": "large_planks_mangrove"
 	},
-	"sb:large_cherry_planks": {
+	"sb:large_planks_cherry": {
 		"sound": "wood",
 		"textures": "large_planks_cherry"
 	},
-	"sb:large_bamboo_planks": {
+	"sb:large_planks_bamboo": {
 		"sound": "wood",
 		"textures": "large_planks_bamboo"
 	},
-	"sb:large_pale_oak_planks": {
+	"sb:large_planks_pale_oak": {
 		"sound": "wood",
 		"textures": "large_planks_pale_oak"
 	},
-	"sb:large_crimson_planks": {
+	"sb:large_planks_crimson": {
 		"sound": "wood",
 		"textures": "large_planks_crimson"
 	},
-	"sb:large_warped_planks": {
+	"sb:large_planks_warped": {
 		"sound": "wood",
 		"textures": "large_planks_warped"
 	},
-	"sb:large_clean_oak_planks": {
+	"sb:large_clean_planks_oak": {
 		"sound": "wood",
 		"textures": "large_clean_planks_oak"
 	},
-	"sb:large_clean_spruce_planks": {
+	"sb:large_clean_planks_spruce": {
 		"sound": "wood",
 		"textures": "large_clean_planks_spruce"
 	},
-	"sb:large_clean_birch_planks": {
+	"sb:large_clean_planks_birch": {
 		"sound": "wood",
 		"textures": "large_clean_planks_birch"
 	},
-	"sb:large_clean_jungle_planks": {
+	"sb:large_clean_planks_jungle": {
 		"sound": "wood",
 		"textures": "large_clean_planks_jungle"
 	},
-	"sb:large_clean_acacia_planks": {
+	"sb:large_clean_planks_acacia": {
 		"sound": "wood",
 		"textures": "large_clean_planks_acacia"
 	},
-	"sb:large_clean_dark_oak_planks": {
+	"sb:large_clean_planks_dark_oak": {
 		"sound": "wood",
 		"textures": "large_clean_planks_dark_oak"
 	},
-	"sb:large_clean_mangrove_planks": {
+	"sb:large_clean_planks_mangrove": {
 		"sound": "wood",
 		"textures": "large_clean_planks_mangrove"
 	},
-	"sb:large_clean_cherry_planks": {
+	"sb:large_clean_planks_cherry": {
 		"sound": "wood",
 		"textures": "large_clean_planks_cherry"
 	},
-	"sb:large_clean_bamboo_planks": {
+	"sb:large_clean_planks_bamboo": {
 		"sound": "wood",
 		"textures": "large_clean_planks_bamboo"
 	},
-	"sb:large_clean_pale_oak_planks": {
+	"sb:large_clean_planks_pale_oak": {
 		"sound": "wood",
 		"textures": "large_clean_planks_pale_oak"
 	},
-	"sb:large_clean_crimson_planks": {
+	"sb:large_clean_planks_crimson": {
 		"sound": "wood",
 		"textures": "large_clean_planks_crimson"
 	},
-	"sb:large_clean_warped_planks": {
+	"sb:large_clean_planks_warped": {
 		"sound": "wood",
 		"textures": "large_clean_planks_warped"
 	},
-	"sb:vertical_large_clean_oak_planks": {
+	"sb:vertical_large_clean_planks_oak": {
 		"sound": "wood",
 		"textures": "vertical_large_clean_planks_oak"
 	},
-	"sb:vertical_large_clean_spruce_planks": {
+	"sb:vertical_large_clean_planks_spruce": {
 		"sound": "wood",
 		"textures": "vertical_large_clean_planks_spruce"
 	},
-	"sb:vertical_large_clean_birch_planks": {
+	"sb:vertical_large_clean_planks_birch": {
 		"sound": "wood",
 		"textures": "vertical_large_clean_planks_birch"
 	},
-	"sb:vertical_large_clean_jungle_planks": {
+	"sb:vertical_large_clean_planks_jungle": {
 		"sound": "wood",
 		"textures": "vertical_large_clean_planks_jungle"
 	},
-	"sb:vertical_large_clean_acacia_planks": {
+	"sb:vertical_large_clean_planks_acacia": {
 		"sound": "wood",
 		"textures": "vertical_large_clean_planks_acacia"
 	},
-	"sb:vertical_large_clean_dark_oak_planks": {
+	"sb:vertical_large_clean_planks_dark_oak": {
 		"sound": "wood",
 		"textures": "vertical_large_clean_planks_dark_oak"
 	},
-	"sb:vertical_large_clean_mangrove_planks": {
+	"sb:vertical_large_clean_planks_mangrove": {
 		"sound": "wood",
 		"textures": "vertical_large_clean_planks_mangrove"
 	},
-	"sb:vertical_large_clean_cherry_planks": {
+	"sb:vertical_large_clean_planks_cherry": {
 		"sound": "wood",
 		"textures": "vertical_large_clean_planks_cherry"
 	},
-	"sb:vertical_large_clean_bamboo_planks": {
+	"sb:vertical_large_clean_planks_bamboo": {
 		"sound": "wood",
 		"textures": "vertical_large_clean_planks_bamboo"
 	},
-	"sb:vertical_large_clean_pale_oak_planks": {
+	"sb:vertical_large_clean_planks_pale_oak": {
 		"sound": "wood",
 		"textures": "vertical_large_clean_planks_pale_oak"
 	},
-	"sb:vertical_large_clean_crimson_planks": {
+	"sb:vertical_large_clean_planks_crimson": {
 		"sound": "wood",
 		"textures": "vertical_large_clean_planks_crimson"
 	},
-	"sb:vertical_large_clean_warped_planks": {
+	"sb:vertical_large_clean_planks_warped": {
 		"sound": "wood",
 		"textures": "vertical_large_clean_planks_warped"
 	},
 	"sb:oak_trim": {
 		"sound": "wood",
-		"textures": "oak_trim"
+		"textures": "trim_oak"
 	},
 	"sb:spruce_trim": {
 		"sound": "wood",
-		"textures": "spruce_trim"
+		"textures": "trim_spruce"
 	},
 	"sb:birch_trim": {
 		"sound": "wood",
-		"textures": "birch_trim"
+		"textures": "trim_birch"
 	},
 	"sb:jungle_trim": {
 		"sound": "wood",
-		"textures": "jungle_trim"
+		"textures": "trim_jungle"
 	},
 	"sb:acacia_trim": {
 		"sound": "wood",
-		"textures": "acacia_trim"
+		"textures": "trim_acacia"
 	},
 	"sb:dark_oak_trim": {
 		"sound": "wood",
-		"textures": "dark_oak_trim"
+		"textures": "trim_dark_oak"
 	},
 	"sb:mangrove_trim": {
 		"sound": "wood",
-		"textures": "mangrove_trim"
+		"textures": "trim_mangrove"
 	},
 	"sb:cherry_trim": {
 		"sound": "wood",
-		"textures": "cherry_trim"
+		"textures": "trim_cherry"
 	},
 	"sb:bamboo_trim": {
 		"sound": "wood",
-		"textures": "bamboo_trim"
+		"textures": "trim_bamboo"
 	},
 	"sb:pale_oak_trim": {
 		"sound": "wood",
-		"textures": "pale_oak_trim"
+		"textures": "trim_pale_oak"
 	},
 	"sb:crimson_trim": {
 		"sound": "wood",
-		"textures": "crimson_trim"
+		"textures": "trim_crimson"
 	},
 	"sb:warped_trim": {
 		"sound": "wood",
-		"textures": "warped_trim"
+		"textures": "trim_warped"
 	},
 	"sb:oak_shingles": {
 		"sound": "wood",

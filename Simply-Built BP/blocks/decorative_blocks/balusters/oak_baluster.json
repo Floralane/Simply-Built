@@ -4,7 +4,7 @@
     "description": {
       "identifier": "sb:oak_baluster",
       "menu_category": {
-        "category": "items"
+        "category": "construction"
       },
       "traits": {
         "minecraft:placement_direction": {
@@ -44,7 +44,7 @@
       "minecraft:geometry": "geometry.baluster",
       "minecraft:material_instances": {
         "*": {
-          "texture": "oak_baluster",
+          "texture": "baluster_oak",
           "render_method": "alpha_test"
         }
       },
@@ -57,6 +57,7 @@
         "size": [16, 16, 8]
       },
       "minecraft:map_color": "#8E693B",
+      "tag:wood": {},
       "tag:minecraft:is_axe_item_destructible": {},
       "minecraft:destructible_by_explosion": {
         "explosion_resistance": 2

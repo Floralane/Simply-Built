@@ -44,7 +44,7 @@
       "minecraft:geometry": "geometry.vertical_frame_middle",
       "minecraft:material_instances": {
         "*": {
-          "texture": "mangrove_frame",
+          "texture": "frame_mangrove",
           "render_method": "alpha_test"
         }
       },

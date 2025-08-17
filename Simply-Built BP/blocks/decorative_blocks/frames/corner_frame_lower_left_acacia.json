@@ -44,7 +44,7 @@
       "minecraft:geometry": "geometry.corner_frame_lower_left",
       "minecraft:material_instances": {
         "*": {
-          "texture": "acacia_frame",
+          "texture": "frame_acacia",
           "render_method": "alpha_test"
         }
       },

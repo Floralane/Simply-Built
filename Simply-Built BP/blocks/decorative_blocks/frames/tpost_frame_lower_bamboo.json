@@ -44,7 +44,7 @@
       "minecraft:geometry": "geometry.tpost_frame_lower",
       "minecraft:material_instances": {
         "*": {
-          "texture": "bamboo_frame",
+          "texture": "frame_bamboo",
           "render_method": "alpha_test"
         }
       },
